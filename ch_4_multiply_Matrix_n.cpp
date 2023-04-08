@@ -35,10 +35,6 @@ int main(){
 
     matrix<double> c = matrix_multiply(a,b);
 
-
-
-
-
     std::cout << "Matrix a: " << std::endl;
     std::cout << a << std::endl;
 
