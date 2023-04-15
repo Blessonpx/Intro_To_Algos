@@ -1,0 +1,2 @@
+Create a simple function for returning Parent,Left and Right of Each Element 
+when passed a Boost Array 
