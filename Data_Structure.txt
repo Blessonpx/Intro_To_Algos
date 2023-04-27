@@ -1,0 +1,5 @@
+Stack
+-Perform All Operations OF a Stack
+Create an datatype that has a boost array and you iterate over all the elements
+Queue
+- Perform all Operations of a Queue
